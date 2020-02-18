@@ -20,5 +20,17 @@ Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
+=================
+
+Part I:
+Modifications:
+- background color changed to Antique White
+- resized and rounded corners to all images
+- margins added to all paragraphs, headers and texts
+
+
+Part II:
+Reference:
+"How TO - Split Screen 1/2." w3school."https://www.w3schools.com/howto/howto_css_split_screen.asp." Accessed on Feb-17-2020.
 
 
