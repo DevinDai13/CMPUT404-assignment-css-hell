@@ -26,7 +26,7 @@ Part I:
 Modifications:
 - background color changed to Antique White
 - resized and rounded corners to all images
-- margins added to all paragraphs, headers and texts
+- margins added to all paragraphs, headers and texts along with font-family change to them
 
 
 Part II:
