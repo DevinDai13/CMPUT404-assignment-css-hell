@@ -31,7 +31,7 @@ Modifications:
 
 Part II:
 Reference:
--"How TO - Split Screen 1/2." w3school."https://www.w3schools.com/howto/howto_css_split_screen.asp." Accessed on Feb-17-2020.
--"How TO - Fixed Sidebar." w3school. "https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp" Accessed on Feb-21-2020.
+- "How TO - Fixed Sidebar." w3school. "https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp" Accessed on Feb-21-2020.
+- "How TO - Split Screen 1/2." w3school."https://www.w3schools.com/howto/howto_css_split_screen.asp." Accessed on Feb-17-2020.
 
 
