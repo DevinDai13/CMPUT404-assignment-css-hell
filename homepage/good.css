@@ -1,0 +1,92 @@
+html{
+    height: 110%;    
+}
+
+body{
+    height: 100%;
+}
+
+.sidebar {
+    height: 100%; 
+    width: 26%; 
+    position: fixed; 
+    z-index: 1; 
+    top: 0; 
+    left: 0;
+    background-color: rgb(91, 241, 184);
+    overflow-x: hidden;
+    padding-top: 3%; 
+    text-align: center;
+    font-family: "Times New Roman", Times, san-serif;
+}
+
+.right {
+    margin-left: 25%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-left: 3%;
+    padding-right: 3%;
+    font-family: "Times New Roman", Times, san-serif;
+    font-size: larger;
+    background-color: rgb(142, 238, 241);
+    min-height: 100%;
+    width: 70%;
+}
+
+img {
+    border-radius: 30%;
+    width: 70%;
+    margin-bottom: 10px;
+}
+
+.name {
+    font-size: 150%;
+    font-family: "Times New Roman", Times, san-serif;
+    font-weight: bold;
+}
+
+.points {
+    font-size: 95%;
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 10%;
+    margin-top: 6%;
+}
+
+.points li {
+    margin-bottom: 15px;
+}
+
+h1 {
+    text-align: left; 
+    font-size: 120%;
+    background-color: rgb(142, 238, 241);
+    color: rgb(92, 57, 78);
+}
+
+p {
+    text-align: justify;
+    text-indent: 4.5%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.position {
+    margin-left: 2%;
+}
+
+.date {
+    float: right;
+    margin-right: 2%;
+}
+
+.description {
+    margin-top: 0.5%;
+    font-size: 80%;
+}
+
+.Technical-Skills {
+    columns: 1;
+    font-size: 90%;
+    margin-left: 3%;
+}
