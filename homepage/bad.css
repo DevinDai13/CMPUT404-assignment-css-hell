@@ -1,6 +1,6 @@
 body{
 	margin: 0px;
-	background-color: rgb(201, 228, 247);
+	background-color: rgb(241, 239, 142);
 }
 
 .sidebar {
@@ -18,38 +18,28 @@ body{
 }
 
 .right {
-    margin-left: 100%;
+    text-align: center;
+    margin-left: 25%;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
     padding-left: 3%;
-    padding-right: 3%;
+    padding-right: 0%;
     font-family: "Times New Roman", Times, san-serif;
     font-size: larger;
-    background-color: rgb(219, 179, 91);
+    background-color: rgb(241, 239, 142);
     min-height: 100%;
-    width: 90%;
+    width: 70%;
 }
 
-content{
-	margin-top: 10px;
-	display: flex;
-	width: 80%;
-}
-left{
-	flex-grow: 2;
-}
 h1{
 	background-image: radial-gradient(#05e7dc, #8fecfc , #645864);
-	font-size: 330%;
-	margin: 0px;
+	font-size: 200%;
 	color: rgb(15, 104, 34);
-	padding: 100px;
+    padding: 100px;
 }
+
 line{
 	border-color: black;
-}
-.section{
-	border: solid;
 }
 
 hr{
@@ -57,22 +47,15 @@ hr{
 	color: black;
 }
 
-.centered img {
-	width: 20%;
-	height: 20%;
-    border-radius: 20%;
-  }
+p{
+	text-align: center;
+}
 
-  p{
-	  text-align: center;
-  }
-
-  img {
+img {
 	border-radius: 80%;
     width: 60%;
 	margin-bottom: 10px;
 	transform: rotate(45deg);
-
 }
 
 
